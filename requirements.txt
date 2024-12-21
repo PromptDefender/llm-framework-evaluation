@@ -1,0 +1,3 @@
+pypistats
+requests
+tenacity
