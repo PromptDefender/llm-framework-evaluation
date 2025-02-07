@@ -6,8 +6,8 @@
     "Language": "JavaScript",
     "info": "The AI SDK is the TypeScript toolkit designed to help developers build AI-powered applications with React, Next.js, Vue, Svelte, Node.js, and more.",
     "color": "#1f77b4",
-    "value": 11575,
-    "downloads": 3375473
+    "value": 11613,
+    "downloads": 2885127
   },
   {
     "name": "LangChain",
@@ -15,8 +15,8 @@
     "URL": "https://github.com/langchain-ai/langchain",
     "Language": "Python",
     "color": "#1f77b4",
-    "value": 99595,
-    "downloads": 134863268
+    "value": 99691,
+    "downloads": 136104941
   },
   {
     "name": "AutoGen",
@@ -24,8 +24,8 @@
     "URL": "https://github.com/microsoft/autogen",
     "Language": "Python",
     "color": "#ff7f0e",
-    "value": 38822,
-    "downloads": 251783
+    "value": 38897,
+    "downloads": 254904
   },
   {
     "name": "Haystack",
@@ -33,8 +33,8 @@
     "URL": "https://github.com/deepset-ai/haystack",
     "Language": "Python",
     "color": "#2ca02c",
-    "value": 18991,
-    "downloads": 41793
+    "value": 19010,
+    "downloads": 42032
   },
   {
     "name": "Genkit",
@@ -42,8 +42,8 @@
     "URL": "https://github.com/firebase/genkit",
     "Language": "JavaScript, Go",
     "color": "#d62728",
-    "value": 1037,
-    "downloads": 20986
+    "value": 1040,
+    "downloads": 17327
   },
   {
     "name": "Promptflow",
@@ -51,8 +51,8 @@
     "URL": "https://github.com/microsoft/promptflow",
     "Language": "Python",
     "color": "#9467bd",
-    "value": 9881,
-    "downloads": 1324136
+    "value": 9889,
+    "downloads": 1329054
   },
   {
     "URL": "https://github.com/BrainBlend-AI/atomic-agents",
@@ -60,8 +60,8 @@
     "info": "Atomic Agents is a framework for building AI-powered applications that use large language models (LLMs) to interact with users. It provides a set of tools for creating conversational agents that can perform a wide range of tasks, from answering questions to generating text.",
     "name": "atomic-agents",
     "Language": "Python",
-    "value": 2458,
-    "downloads": 39674
+    "value": 2466,
+    "downloads": 39823
   },
   {
     "name": "Llama-Index",
@@ -69,8 +69,8 @@
     "URL": "https://github.com/run-llama/llama_index",
     "Language": "Python",
     "color": "#8c564b",
-    "value": 38581,
-    "downloads": 15844400
+    "value": 38610,
+    "downloads": 15980940
   },
   {
     "name": "NeMo",
@@ -78,8 +78,8 @@
     "URL": "https://github.com/NVIDIA/NeMo",
     "Language": "Python",
     "color": "#e377c2",
-    "value": 13022,
-    "downloads": 90730
+    "value": 13035,
+    "downloads": 91422
   },
   {
     "name": "OpenPrompt",
@@ -87,8 +87,8 @@
     "URL": "https://github.com/thunlp/OpenPrompt",
     "Language": "Python",
     "color": "#7f7f7f",
-    "value": 4449,
-    "downloads": 21375
+    "value": 4452,
+    "downloads": 21531
   },
   {
     "name": "PromptLayer",
@@ -96,8 +96,8 @@
     "URL": "https://github.com/MagnivOrg/prompt-layer-library",
     "Language": "Python",
     "color": "#bcbd22",
-    "value": 544,
-    "downloads": 185756
+    "value": 545,
+    "downloads": 186914
   },
   {
     "name": "Rasa",
@@ -105,8 +105,8 @@
     "URL": "https://github.com/RasaHQ/rasa",
     "Language": "Python",
     "color": "#17becf",
-    "value": 19341,
-    "downloads": 1251984
+    "value": 19357,
+    "downloads": 1260024
   },
   {
     "name": "Botpress",
@@ -114,7 +114,7 @@
     "URL": "https://github.com/botpress/botpress",
     "Language": "TypeScript",
     "color": "#1f77b4",
-    "value": 13163,
+    "value": 13172,
     "downloads": "N/A"
   },
   {
@@ -124,7 +124,7 @@
     "Language": "Python",
     "color": "#ff7f0e",
     "value": 4,
-    "downloads": 136733
+    "downloads": 137561
   },
   {
     "name": "Promptable",
@@ -141,8 +141,8 @@
     "URL": "https://github.com/langroid/langroid",
     "Language": "Python",
     "color": "#d62728",
-    "value": 3009,
-    "downloads": 166639
+    "value": 3014,
+    "downloads": 167909
   },
   {
     "name": "aiconfig",
@@ -151,6 +151,6 @@
     "Language": "Python, Node.js",
     "color": "#9467bd",
     "value": 985,
-    "downloads": 3698
+    "downloads": 3714
   }
 ]
