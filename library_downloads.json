@@ -6,8 +6,8 @@
     "Language": "JavaScript",
     "info": "The AI SDK is the TypeScript toolkit designed to help developers build AI-powered applications with React, Next.js, Vue, Svelte, Node.js, and more.",
     "color": "#1f77b4",
-    "value": 11745,
-    "downloads": 4287136
+    "value": 11790,
+    "downloads": 4490810
   },
   {
     "name": "LangChain",
@@ -15,7 +15,7 @@
     "URL": "https://github.com/langchain-ai/langchain",
     "Language": "Python",
     "color": "#1f77b4",
-    "value": 100176,
+    "value": 100291,
     "downloads": 138803363
   },
   {
@@ -24,7 +24,7 @@
     "URL": "https://github.com/microsoft/autogen",
     "Language": "Python",
     "color": "#ff7f0e",
-    "value": 39213,
+    "value": 39311,
     "downloads": 264587
   },
   {
@@ -33,7 +33,7 @@
     "URL": "https://github.com/deepset-ai/haystack",
     "Language": "Python",
     "color": "#2ca02c",
-    "value": 19116,
+    "value": 19144,
     "downloads": 41456
   },
   {
@@ -42,8 +42,8 @@
     "URL": "https://github.com/firebase/genkit",
     "Language": "JavaScript, Go",
     "color": "#d62728",
-    "value": 1048,
-    "downloads": 29630
+    "value": 1051,
+    "downloads": 30639
   },
   {
     "name": "Promptflow",
@@ -51,7 +51,7 @@
     "URL": "https://github.com/microsoft/promptflow",
     "Language": "Python",
     "color": "#9467bd",
-    "value": 9924,
+    "value": 9925,
     "downloads": 1093596
   },
   {
@@ -60,7 +60,7 @@
     "info": "Atomic Agents is a framework for building AI-powered applications that use large language models (LLMs) to interact with users. It provides a set of tools for creating conversational agents that can perform a wide range of tasks, from answering questions to generating text.",
     "name": "atomic-agents",
     "Language": "Python",
-    "value": 2530,
+    "value": 2541,
     "downloads": 40419
   },
   {
@@ -69,7 +69,7 @@
     "URL": "https://github.com/run-llama/llama_index",
     "Language": "Python",
     "color": "#8c564b",
-    "value": 38790,
+    "value": 38833,
     "downloads": 16198028
   },
   {
@@ -78,7 +78,7 @@
     "URL": "https://github.com/NVIDIA/NeMo",
     "Language": "Python",
     "color": "#e377c2",
-    "value": 13088,
+    "value": 13094,
     "downloads": 91471
   },
   {
@@ -87,7 +87,7 @@
     "URL": "https://github.com/thunlp/OpenPrompt",
     "Language": "Python",
     "color": "#7f7f7f",
-    "value": 4455,
+    "value": 4457,
     "downloads": 22132
   },
   {
@@ -96,7 +96,7 @@
     "URL": "https://github.com/MagnivOrg/prompt-layer-library",
     "Language": "Python",
     "color": "#bcbd22",
-    "value": 549,
+    "value": 551,
     "downloads": 186096
   },
   {
@@ -105,7 +105,7 @@
     "URL": "https://github.com/RasaHQ/rasa",
     "Language": "Python",
     "color": "#17becf",
-    "value": 19400,
+    "value": 19407,
     "downloads": 1273940
   },
   {
@@ -114,7 +114,7 @@
     "URL": "https://github.com/botpress/botpress",
     "Language": "TypeScript",
     "color": "#1f77b4",
-    "value": 13197,
+    "value": 13204,
     "downloads": "N/A"
   },
   {
@@ -141,7 +141,7 @@
     "URL": "https://github.com/langroid/langroid",
     "Language": "Python",
     "color": "#d62728",
-    "value": 3038,
+    "value": 3039,
     "downloads": 172194
   },
   {
