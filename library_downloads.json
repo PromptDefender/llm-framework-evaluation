@@ -6,8 +6,8 @@
     "Language": "JavaScript",
     "info": "The AI SDK is the TypeScript toolkit designed to help developers build AI-powered applications with React, Next.js, Vue, Svelte, Node.js, and more.",
     "color": "#1f77b4",
-    "value": 12268,
-    "downloads": 5195018
+    "value": 12283,
+    "downloads": 5082435
   },
   {
     "name": "LangChain",
@@ -15,8 +15,8 @@
     "URL": "https://github.com/langchain-ai/langchain",
     "Language": "Python",
     "color": "#1f77b4",
-    "value": 101919,
-    "downloads": 153499811
+    "value": 101995,
+    "downloads": 154148437
   },
   {
     "name": "AutoGen",
@@ -24,8 +24,8 @@
     "URL": "https://github.com/microsoft/autogen",
     "Language": "Python",
     "color": "#ff7f0e",
-    "value": 40474,
-    "downloads": 312385
+    "value": 40530,
+    "downloads": 313818
   },
   {
     "name": "Haystack",
@@ -33,8 +33,8 @@
     "URL": "https://github.com/deepset-ai/haystack",
     "Language": "Python",
     "color": "#2ca02c",
-    "value": 19510,
-    "downloads": 41439
+    "value": 19521,
+    "downloads": 41552
   },
   {
     "name": "Genkit",
@@ -42,8 +42,8 @@
     "URL": "https://github.com/firebase/genkit",
     "Language": "JavaScript, Go",
     "color": "#d62728",
-    "value": 1149,
-    "downloads": 40844
+    "value": 1150,
+    "downloads": 40873
   },
   {
     "name": "Promptflow",
@@ -51,8 +51,8 @@
     "URL": "https://github.com/microsoft/promptflow",
     "Language": "Python",
     "color": "#9467bd",
-    "value": 10012,
-    "downloads": 927837
+    "value": 10015,
+    "downloads": 925659
   },
   {
     "URL": "https://github.com/BrainBlend-AI/atomic-agents",
@@ -60,8 +60,8 @@
     "info": "Atomic Agents is a framework for building AI-powered applications that use large language models (LLMs) to interact with users. It provides a set of tools for creating conversational agents that can perform a wide range of tasks, from answering questions to generating text.",
     "name": "atomic-agents",
     "Language": "Python",
-    "value": 2831,
-    "downloads": 45456
+    "value": 2858,
+    "downloads": 45615
   },
   {
     "name": "Llama-Index",
@@ -69,8 +69,8 @@
     "URL": "https://github.com/run-llama/llama_index",
     "Language": "Python",
     "color": "#8c564b",
-    "value": 39446,
-    "downloads": 17448892
+    "value": 39466,
+    "downloads": 17502739
   },
   {
     "name": "NeMo",
@@ -78,8 +78,8 @@
     "URL": "https://github.com/NVIDIA/NeMo",
     "Language": "Python",
     "color": "#e377c2",
-    "value": 13225,
-    "downloads": 95441
+    "value": 13229,
+    "downloads": 95295
   },
   {
     "name": "OpenPrompt",
@@ -87,8 +87,8 @@
     "URL": "https://github.com/thunlp/OpenPrompt",
     "Language": "Python",
     "color": "#7f7f7f",
-    "value": 4478,
-    "downloads": 24999
+    "value": 4479,
+    "downloads": 25133
   },
   {
     "name": "PromptLayer",
@@ -97,7 +97,7 @@
     "Language": "Python",
     "color": "#bcbd22",
     "value": 561,
-    "downloads": 183194
+    "downloads": 183200
   },
   {
     "name": "Rasa",
@@ -105,8 +105,8 @@
     "URL": "https://github.com/RasaHQ/rasa",
     "Language": "Python",
     "color": "#17becf",
-    "value": 19559,
-    "downloads": 1318863
+    "value": 19565,
+    "downloads": 1320678
   },
   {
     "name": "Botpress",
@@ -114,7 +114,7 @@
     "URL": "https://github.com/botpress/botpress",
     "Language": "TypeScript",
     "color": "#1f77b4",
-    "value": 13295,
+    "value": 13303,
     "downloads": "N/A"
   },
   {
@@ -124,7 +124,7 @@
     "Language": "Python",
     "color": "#ff7f0e",
     "value": 5,
-    "downloads": 144603
+    "downloads": 145597
   },
   {
     "name": "Promptable",
@@ -141,8 +141,8 @@
     "URL": "https://github.com/langroid/langroid",
     "Language": "Python",
     "color": "#d62728",
-    "value": 3104,
-    "downloads": 178361
+    "value": 3106,
+    "downloads": 182518
   },
   {
     "name": "aiconfig",
@@ -151,6 +151,6 @@
     "Language": "Python, Node.js",
     "color": "#9467bd",
     "value": 993,
-    "downloads": 3851
+    "downloads": 3863
   }
 ]
