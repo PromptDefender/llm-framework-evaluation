@@ -6,8 +6,8 @@
     "Language": "JavaScript",
     "info": "The AI SDK is the TypeScript toolkit designed to help developers build AI-powered applications with React, Next.js, Vue, Svelte, Node.js, and more.",
     "color": "#1f77b4",
-    "value": 12938,
-    "downloads": 4957661
+    "value": 12958,
+    "downloads": 4898636
   },
   {
     "name": "LangChain",
@@ -15,8 +15,8 @@
     "URL": "https://github.com/langchain-ai/langchain",
     "Language": "Python",
     "color": "#1f77b4",
-    "value": 104311,
-    "downloads": 189059623
+    "value": 104418,
+    "downloads": 191295993
   },
   {
     "name": "AutoGen",
@@ -24,8 +24,8 @@
     "URL": "https://github.com/microsoft/autogen",
     "Language": "Python",
     "color": "#ff7f0e",
-    "value": 42217,
-    "downloads": 371337
+    "value": 42282,
+    "downloads": 374730
   },
   {
     "name": "Haystack",
@@ -33,8 +33,8 @@
     "URL": "https://github.com/deepset-ai/haystack",
     "Language": "Python",
     "color": "#2ca02c",
-    "value": 20008,
-    "downloads": 42503
+    "value": 20036,
+    "downloads": 42782
   },
   {
     "name": "Genkit",
@@ -42,8 +42,8 @@
     "URL": "https://github.com/firebase/genkit",
     "Language": "JavaScript, Go",
     "color": "#d62728",
-    "value": 1247,
-    "downloads": 54275
+    "value": 1259,
+    "downloads": 55042
   },
   {
     "name": "Promptflow",
@@ -51,8 +51,8 @@
     "URL": "https://github.com/microsoft/promptflow",
     "Language": "Python",
     "color": "#9467bd",
-    "value": 10158,
-    "downloads": 831630
+    "value": 10159,
+    "downloads": 836667
   },
   {
     "URL": "https://github.com/BrainBlend-AI/atomic-agents",
@@ -60,8 +60,8 @@
     "info": "Atomic Agents is a framework for building AI-powered applications that use large language models (LLMs) to interact with users. It provides a set of tools for creating conversational agents that can perform a wide range of tasks, from answering questions to generating text.",
     "name": "atomic-agents",
     "Language": "Python",
-    "value": 3180,
-    "downloads": 52456
+    "value": 3188,
+    "downloads": 52878
   },
   {
     "name": "Llama-Index",
@@ -69,8 +69,8 @@
     "URL": "https://github.com/run-llama/llama_index",
     "Language": "Python",
     "color": "#8c564b",
-    "value": 40396,
-    "downloads": 20382791
+    "value": 40438,
+    "downloads": 20583310
   },
   {
     "name": "NeMo",
@@ -78,8 +78,8 @@
     "URL": "https://github.com/NVIDIA/NeMo",
     "Language": "Python",
     "color": "#e377c2",
-    "value": 13473,
-    "downloads": 102118
+    "value": 13477,
+    "downloads": 103021
   },
   {
     "name": "OpenPrompt",
@@ -88,7 +88,7 @@
     "Language": "Python",
     "color": "#7f7f7f",
     "value": 4517,
-    "downloads": 28309
+    "downloads": 28340
   },
   {
     "name": "PromptLayer",
@@ -97,7 +97,7 @@
     "Language": "Python",
     "color": "#bcbd22",
     "value": 567,
-    "downloads": 189780
+    "downloads": 191457
   },
   {
     "name": "Rasa",
@@ -105,8 +105,8 @@
     "URL": "https://github.com/RasaHQ/rasa",
     "Language": "Python",
     "color": "#17becf",
-    "value": 19767,
-    "downloads": 1440034
+    "value": 19805,
+    "downloads": 1447794
   },
   {
     "name": "Botpress",
@@ -114,7 +114,7 @@
     "URL": "https://github.com/botpress/botpress",
     "Language": "TypeScript",
     "color": "#1f77b4",
-    "value": 13457,
+    "value": 13468,
     "downloads": "N/A"
   },
   {
@@ -124,7 +124,7 @@
     "Language": "Python",
     "color": "#ff7f0e",
     "value": 5,
-    "downloads": 156483
+    "downloads": 157013
   },
   {
     "name": "Promptable",
@@ -141,8 +141,8 @@
     "URL": "https://github.com/langroid/langroid",
     "Language": "Python",
     "color": "#d62728",
-    "value": 3181,
-    "downloads": 197020
+    "value": 3186,
+    "downloads": 197887
   },
   {
     "name": "aiconfig",
@@ -150,7 +150,7 @@
     "URL": "https://github.com/lastmile-ai/aiconfig",
     "Language": "Python, Node.js",
     "color": "#9467bd",
-    "value": 1004,
-    "downloads": 3979
+    "value": 1005,
+    "downloads": 3982
   }
 ]
