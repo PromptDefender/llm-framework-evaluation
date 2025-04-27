@@ -6,7 +6,7 @@
     "Language": "JavaScript",
     "info": "The AI SDK is the TypeScript toolkit designed to help developers build AI-powered applications with React, Next.js, Vue, Svelte, Node.js, and more.",
     "color": "#1f77b4",
-    "value": 13700,
+    "value": 13719,
     "downloads": 4447589
   },
   {
@@ -15,8 +15,8 @@
     "URL": "https://github.com/langchain-ai/langchain",
     "Language": "Python",
     "color": "#1f77b4",
-    "value": 106353,
-    "downloads": 242449294
+    "value": 106407,
+    "downloads": 245033239
   },
   {
     "name": "AutoGen",
@@ -24,8 +24,8 @@
     "URL": "https://github.com/microsoft/autogen",
     "Language": "Python",
     "color": "#ff7f0e",
-    "value": 43665,
-    "downloads": 426556
+    "value": 43732,
+    "downloads": 430966
   },
   {
     "name": "Haystack",
@@ -33,8 +33,8 @@
     "URL": "https://github.com/deepset-ai/haystack",
     "Language": "Python",
     "color": "#2ca02c",
-    "value": 20436,
-    "downloads": 42189
+    "value": 20442,
+    "downloads": 42434
   },
   {
     "name": "Genkit",
@@ -42,7 +42,7 @@
     "URL": "https://github.com/firebase/genkit",
     "Language": "JavaScript, Go",
     "color": "#d62728",
-    "value": 1717,
+    "value": 1720,
     "downloads": 105558
   },
   {
@@ -51,8 +51,8 @@
     "URL": "https://github.com/microsoft/promptflow",
     "Language": "Python",
     "color": "#9467bd",
-    "value": 10280,
-    "downloads": 719103
+    "value": 10286,
+    "downloads": 725595
   },
   {
     "URL": "https://github.com/BrainBlend-AI/atomic-agents",
@@ -60,8 +60,8 @@
     "info": "Atomic Agents is a framework for building AI-powered applications that use large language models (LLMs) to interact with users. It provides a set of tools for creating conversational agents that can perform a wide range of tasks, from answering questions to generating text.",
     "name": "atomic-agents",
     "Language": "Python",
-    "value": 3468,
-    "downloads": 54327
+    "value": 3483,
+    "downloads": 54507
   },
   {
     "name": "Llama-Index",
@@ -69,8 +69,8 @@
     "URL": "https://github.com/run-llama/llama_index",
     "Language": "Python",
     "color": "#8c564b",
-    "value": 41209,
-    "downloads": 22178811
+    "value": 41224,
+    "downloads": 22350302
   },
   {
     "name": "NeMo",
@@ -78,8 +78,8 @@
     "URL": "https://github.com/NVIDIA/NeMo",
     "Language": "Python",
     "color": "#e377c2",
-    "value": 13720,
-    "downloads": 105898
+    "value": 13725,
+    "downloads": 106247
   },
   {
     "name": "OpenPrompt",
@@ -87,8 +87,8 @@
     "URL": "https://github.com/thunlp/OpenPrompt",
     "Language": "Python",
     "color": "#7f7f7f",
-    "value": 4566,
-    "downloads": 28300
+    "value": 4567,
+    "downloads": 28323
   },
   {
     "name": "PromptLayer",
@@ -96,8 +96,8 @@
     "URL": "https://github.com/MagnivOrg/prompt-layer-library",
     "Language": "Python",
     "color": "#bcbd22",
-    "value": 577,
-    "downloads": 187516
+    "value": 578,
+    "downloads": 188544
   },
   {
     "name": "Rasa",
@@ -105,8 +105,8 @@
     "URL": "https://github.com/RasaHQ/rasa",
     "Language": "Python",
     "color": "#17becf",
-    "value": 20038,
-    "downloads": 1472738
+    "value": 20042,
+    "downloads": 1477396
   },
   {
     "name": "Botpress",
@@ -114,7 +114,7 @@
     "URL": "https://github.com/botpress/botpress",
     "Language": "TypeScript",
     "color": "#1f77b4",
-    "value": 13585,
+    "value": 13588,
     "downloads": "N/A"
   },
   {
@@ -124,7 +124,7 @@
     "Language": "Python",
     "color": "#ff7f0e",
     "value": 7,
-    "downloads": 152581
+    "downloads": 153594
   },
   {
     "name": "Promptable",
@@ -141,8 +141,8 @@
     "URL": "https://github.com/langroid/langroid",
     "Language": "Python",
     "color": "#d62728",
-    "value": 3248,
-    "downloads": 205100
+    "value": 3251,
+    "downloads": 206441
   },
   {
     "name": "aiconfig",
@@ -151,6 +151,6 @@
     "Language": "Python, Node.js",
     "color": "#9467bd",
     "value": 1016,
-    "downloads": 2769
+    "downloads": 2780
   }
 ]
