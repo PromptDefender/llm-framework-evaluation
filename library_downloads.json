@@ -6,8 +6,8 @@
     "Language": "JavaScript",
     "info": "The AI SDK is the TypeScript toolkit designed to help developers build AI-powered applications with React, Next.js, Vue, Svelte, Node.js, and more.",
     "color": "#1f77b4",
-    "value": 15530,
-    "downloads": 7045209
+    "value": 15577,
+    "downloads": 7233193
   },
   {
     "name": "LangChain",
@@ -15,8 +15,8 @@
     "URL": "https://github.com/langchain-ai/langchain",
     "Language": "Python",
     "color": "#1f77b4",
-    "value": 110923,
-    "downloads": 366545908
+    "value": 111004,
+    "downloads": 369253742
   },
   {
     "name": "AutoGen",
@@ -24,8 +24,8 @@
     "URL": "https://github.com/microsoft/autogen",
     "Language": "Python",
     "color": "#ff7f0e",
-    "value": 46956,
-    "downloads": 578508
+    "value": 47002,
+    "downloads": 583398
   },
   {
     "name": "Haystack",
@@ -33,8 +33,8 @@
     "URL": "https://github.com/deepset-ai/haystack",
     "Language": "Python",
     "color": "#2ca02c",
-    "value": 21428,
-    "downloads": 42298
+    "value": 21437,
+    "downloads": 42610
   },
   {
     "name": "Genkit",
@@ -42,8 +42,8 @@
     "URL": "https://github.com/firebase/genkit",
     "Language": "JavaScript, Go",
     "color": "#d62728",
-    "value": 2526,
-    "downloads": 595588
+    "value": 2535,
+    "downloads": 614234
   },
   {
     "name": "Promptflow",
@@ -51,8 +51,8 @@
     "URL": "https://github.com/microsoft/promptflow",
     "Language": "Python",
     "color": "#9467bd",
-    "value": 10540,
-    "downloads": 820068
+    "value": 10548,
+    "downloads": 826095
   },
   {
     "URL": "https://github.com/BrainBlend-AI/atomic-agents",
@@ -60,8 +60,8 @@
     "info": "Atomic Agents is a framework for building AI-powered applications that use large language models (LLMs) to interact with users. It provides a set of tools for creating conversational agents that can perform a wide range of tasks, from answering questions to generating text.",
     "name": "atomic-agents",
     "Language": "Python",
-    "value": 4114,
-    "downloads": 62009
+    "value": 4124,
+    "downloads": 62721
   },
   {
     "name": "Llama-Index",
@@ -69,8 +69,8 @@
     "URL": "https://github.com/run-llama/llama_index",
     "Language": "Python",
     "color": "#8c564b",
-    "value": 42897,
-    "downloads": 24645084
+    "value": 42924,
+    "downloads": 24791469
   },
   {
     "name": "NeMo",
@@ -78,8 +78,8 @@
     "URL": "https://github.com/NVIDIA/NeMo",
     "Language": "Python",
     "color": "#e377c2",
-    "value": 15020,
-    "downloads": 102926
+    "value": 15030,
+    "downloads": 103540
   },
   {
     "name": "OpenPrompt",
@@ -88,7 +88,7 @@
     "Language": "Python",
     "color": "#7f7f7f",
     "value": 4662,
-    "downloads": 18840
+    "downloads": 18868
   },
   {
     "name": "PromptLayer",
@@ -97,7 +97,7 @@
     "Language": "Python",
     "color": "#bcbd22",
     "value": 635,
-    "downloads": 205081
+    "downloads": 207031
   },
   {
     "name": "Rasa",
@@ -105,8 +105,8 @@
     "URL": "https://github.com/RasaHQ/rasa",
     "Language": "Python",
     "color": "#17becf",
-    "value": 20367,
-    "downloads": 1311860
+    "value": 20372,
+    "downloads": 1316455
   },
   {
     "name": "Botpress",
@@ -114,7 +114,7 @@
     "URL": "https://github.com/botpress/botpress",
     "Language": "TypeScript",
     "color": "#1f77b4",
-    "value": 13905,
+    "value": 13906,
     "downloads": "N/A"
   },
   {
@@ -124,7 +124,7 @@
     "Language": "Python",
     "color": "#ff7f0e",
     "value": 8,
-    "downloads": 157108
+    "downloads": 157737
   },
   {
     "name": "Promptable",
@@ -142,7 +142,7 @@
     "Language": "Python",
     "color": "#d62728",
     "value": 3462,
-    "downloads": 216215
+    "downloads": 217289
   },
   {
     "name": "aiconfig",
@@ -151,6 +151,6 @@
     "Language": "Python, Node.js",
     "color": "#9467bd",
     "value": 1032,
-    "downloads": 1944
+    "downloads": 1946
   }
 ]
